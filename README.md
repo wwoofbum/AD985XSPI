@@ -1,6 +1,8 @@
 /********************************************************************************************
 * Arduino library for AD9850 and AD9851
 *
+*Added libraries.properties file to comply with current Arduino libraries requirements.
+*
 * AD9850SPI library created 23/08/2014
 * Christophe Caiveau f4goj@free.fr
 * Upgrade to SPI Anthony F4GOH
